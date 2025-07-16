@@ -24,4 +24,5 @@ This repo contains all the solutions I created to solve the 160 days of problem 
 
 # Questions As per the Day: 
 Day 1 - Second Largest <br/>
-Day 2 - Move All Zeros To End
+Day 2 - Move All Zeros To End <br/>
+Day 3 - Reverse an Array
