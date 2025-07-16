@@ -24,3 +24,4 @@ This repo contains all the solutions I created to solve the 160 days of problem 
 
 # Questions As per the Day: 
 Day 1 - Second Largest 
+Day 2 - Move All Zeros To End
