@@ -72,7 +72,9 @@ class Solution {
             high--;
         }
     }
-}; ```
+};
+
+```
 
 ---
 
