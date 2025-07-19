@@ -28,3 +28,5 @@ Day 2 - Move All Zeros To End <br/>
 Day 3 - Reverse an Array <br/>
 Day 4 - Rotate Array <br/>
 Day 5 - Next Permutation <br/>
+Day 6 - Majority Element II <br/>
+
