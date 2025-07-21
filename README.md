@@ -30,4 +30,4 @@ Day 4 - Rotate Array <br/>
 Day 5 - Next Permutation <br/>
 Day 6 - Majority Element II <br/>
 Day 7 - Stock Buy and Sell – Multiple Transaction Allowed <br />
-
+Day 8 - Stock Buy and Sell - Max one Transaction Allowed <br/>
